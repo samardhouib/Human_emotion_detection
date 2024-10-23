@@ -1,1 +1,2 @@
 # Human_emotion_detection
+I developed a Convolutional Neural Network (CNN) model to detect human emotions from images. This model accurately classifies various emotions, making it applicable in fields such as human-computer interaction and mental health monitoring. By utilizing deep learning techniques, I aimed to enhance the understanding of emotional responses, which can contribute to more responsive and empathetic systems in technology and support mental health initiatives.
